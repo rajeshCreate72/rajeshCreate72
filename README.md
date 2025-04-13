@@ -3,9 +3,9 @@
 Welcome to my GitHub! I'm a passionate software developer based in Bangalore, currently working as a React Intern at Nura9.
 
 ## About Me
-- **Location**: Hyderabad, India  
+- **Location**: Andhra Pradesh, India  
 - **Contact**: +91-8919461060 | gurugunti.rajesh00011@gmail.com  
-- **Profiles**: [LinkedIn] | [GitHub] | [Scaler]  
+- **Profiles**: [https://www.linkedin.com/in/guruguntirajesh/] | [https://www.scaler.com/academy/profile/fb6a19ab9b7f]  
 - **Education**:  
   - Scaler (2024) - Specialized in Software Development & Problem Solving  
   - Rajiv Gandhi University of Knowledge and Technologies, Srikakulam (2022) - BE/B.Tech/BS, 7.46 CGPA  
