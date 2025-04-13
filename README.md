@@ -38,6 +38,6 @@ Welcome to my GitHub! I'm a passionate software developer based in Andhra Prades
 - **Details**: Improving real-time user experiences with a 20% increase in user engagement; collaborated with cross-functional teams, reducing project delivery time by 15%; leveraged React and design expertise, enhancing performance by 30%.  
 
 ## Contributions
-Feel free to explore my repos, fork them, or collaborate! Open to feedback and new opportunities.
+Feel free to explore my repos or collaborate! Open to feedback and new opportunities.
 
 Thanks for visiting! 😄
