@@ -1,6 +1,6 @@
 # Rajesh Gurugunti's GitHub Profile
 
-Welcome to my GitHub! I'm a passionate software developer based in Bangalore, currently working as a React Intern at Nura9.
+Welcome to my GitHub! I'm a passionate software developer based in Andhra Pradesh, currently working as a React Intern at Nura9.
 
 ## About Me
 - **Location**: Andhra Pradesh, India  
