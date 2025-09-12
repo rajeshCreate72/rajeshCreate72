@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate software developer based in Andhra Prades
 
 ## About Me
 - **Location**: Andhra Pradesh, India  
-- **Contact**: gurugunti.rajesh00011@gmail.com  
+- **Contact**: rajesh.gurugunti@gmail.com
 - **Profiles**: [LinkedIn](https://www.linkedin.com/in/guruguntirajesh/) | [Scaler](https://www.scaler.com/academy/profile/fb6a19ab9b7f)  
 - **Education**:  
   - Scaler (2024) - Specialized in Software Development & Problem Solving  
