@@ -1,43 +1,81 @@
-# Rajesh Gurugunti's GitHub Profile
+# Rajesh Gurugunti
 
-Welcome to my GitHub! I'm a passionate software developer based in Andhra Pradesh, currently working as a React Intern at Nura9.
+**Web Developer | React | Next.js | MERN Stack**
 
-## About Me
-- **Location**: Andhra Pradesh, India  
-- **Contact**: rajesh.gurugunti@gmail.com
-- **Profiles**: [LinkedIn](https://www.linkedin.com/in/guruguntirajesh/) | [Scaler](https://www.scaler.com/academy/profile/fb6a19ab9b7f)  
-- **Education**:  
-  - Scaler (2024) - Specialized in Software Development & Problem Solving  
-  - Rajiv Gandhi University of Knowledge and Technologies, Srikakulam (2022) - BE/B.Tech/BS, 7.46 CGPA  
-- **Certifications**:  
-  - Certification of completion of MERN Stack, React JS, JavaScript, SQL, and Data Structures and Algorithms by Scaler  
+📍 Andhra Pradesh, India
+📧 [rajesh.gurugunti@gmail.com](mailto:rajesh.gurugunti@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/guruguntirajesh/) · [Portfolio](https://rajeshgurugunti.vercel.app/)
 
 ## Skills
-- **Programming Languages**: JavaScript, Python, HTML, CSS  
-- **Libraries and Frameworks**: React, Express.js, Node.js, MongoDB, Redux, Bootstrap, Tailwind CSS, Next.js, Context API  
-- **Tools**: GitHub, Linux, Figma  
-- **Other Skills**: Data Structures and Algorithms, SQL  
+
+**Languages:** JavaScript, Python, HTML, CSS, SQL
+
+**Frontend:** React, Next.js, Redux, Context API, Tailwind CSS, Bootstrap
+
+**Backend:** Node.js, Express.js, MongoDB
+
+**Tools:** Git, GitHub, Linux, Figma
+
+**Other:** Data Structures & Algorithms, REST APIs
 
 ## Projects
-### Collaborative Document Editor
-- **Link**: https://document-editor-nextis.vercel.app/  
-- **Description**: Developed a real-time collaborative document editor using Next.js, Zustand, and Liveblocks, enabling seamless multi-user editing.  
-- **Achievements**: Improved state management efficiency by 30% with Zustand, reducing unnecessary re-renders; integrated ShadCN UI, accelerating frontend development by 25% with 15+ pre-built, customizable components.  
-- **GitHub**: https://github.com/rajeshCreate72/document-editor-nextjs  
 
-### Ticket-Booking Website
-- **Link**: https://theater-booking-mern-client.vercel.app/  
-- **Description**: Developed a full-stack theater booking app using the MERN stack for seamless show viewing and seat selection.  
-- **Achievements**: Accelerated frontend development by 25% with Ant Design, ensuring a consistent UI with 10+ pre-built components; enhanced security & payments with JWT authentication and Stripe integration, reducing booking time by 40%.  
-- **GitHub**: https://github.com/rajeshCreate72/theater-booking-mern  
+### Collaborative Document Editor
+
+[Live Demo](https://document-editor-nextis.vercel.app/) · [GitHub](https://github.com/rajeshCreate72/document-editor-nextjs)
+
+Real-time collaborative document editor built with Next.js, Zustand, and Liveblocks, supporting multi-user editing and synchronized application state.
+
+**Tech:** Next.js, React, Zustand, Liveblocks, ShadCN UI
+
+### Ticket Booking Platform
+
+[Live Demo](https://theater-booking-mern-client.vercel.app/) · [GitHub](https://github.com/rajeshCreate72/theater-booking-mern)
+
+Full-stack theater booking application built with the MERN stack, featuring show discovery, seat selection, authentication, and payment integration.
+
+**Tech:** React, Node.js, Express.js, MongoDB, JWT, Stripe, Ant Design
 
 ## Experience
-### React Intern
-- **Company**: Nura9  
-- **Duration**: Mar 2025 - Mar 2026  
-- **Details**: Improving real-time user experiences with a 20% increase in user engagement; collaborated with cross-functional teams, reducing project delivery time by 15%; leveraged React and design expertise, enhancing performance by 30%.  
 
-## Contributions
-Feel free to explore my repos or collaborate! Open to feedback and new opportunities.
+### Web Developer Trainee — Authority Entrepreneurs
 
-Thanks for visiting! 😄
+**Mar 2026 – Jun 2026**
+
+* Developed and maintained web applications using modern frontend technologies.
+* Built responsive user interfaces and reusable React components.
+* Worked with APIs and integrated frontend functionality with backend services.
+* Collaborated with the development team using Git-based workflows.
+* Contributed to debugging, performance improvements, and feature development.
+
+### React Intern — Nura9
+
+**Mar 2025 – Mar 2026**
+
+* Developed responsive web interfaces using React and modern frontend technologies.
+* Built reusable components and contributed to application functionality and UI improvements.
+* Collaborated with cross-functional teams during development and delivery.
+* Worked with Git and standard development workflows.
+
+## Education
+
+**Rajiv Gandhi University of Knowledge Technologies, Srikakulam**
+B.Tech — 2022 · 7.46 CGPA
+
+**Scaler Academy**
+Software Development & Problem Solving — 2024
+
+## Certifications
+
+* MERN Stack
+* React JS
+* JavaScript
+* SQL
+* Data Structures & Algorithms
+
+## Currently Exploring
+
+* Advanced React & Next.js
+* Frontend architecture and performance
+* Full-stack application development
+* Blockchain development with Solana
