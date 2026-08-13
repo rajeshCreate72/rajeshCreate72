@@ -8,7 +8,7 @@
 
 ## Skills
 
-**Languages:** JavaScript, Python, HTML, CSS, SQL
+**Languages:** JavaScript, Rust, HTML, CSS, SQL
 
 **Frontend:** React, Next.js, Redux, Context API, Tailwind CSS, Bootstrap
 
