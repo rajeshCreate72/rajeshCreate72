@@ -55,7 +55,7 @@ registrations.
 
 **Mar 2025 – Mar 2026**
 
-* Decveloped a document generation platform using React, implementing dynamic multi-step forms, backend
+* Developed a document generation platform using React, implementing dynamic multi-step forms, backend
 API integration, user-input handling, and frontend PDF generation with automatic downloads
 * Developed and enhanced administrative dashboard interfaces for user management, editable data tables, and
 workflow operations.
