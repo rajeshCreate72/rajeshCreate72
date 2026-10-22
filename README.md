@@ -42,20 +42,29 @@ Full-stack theater booking application built with the MERN stack, featuring show
 
 **Mar 2026 – Jun 2026**
 
-* Developed and maintained web applications using modern frontend technologies.
-* Built responsive user interfaces and reusable React components.
-* Worked with APIs and integrated frontend functionality with backend services.
-* Collaborated with the development team using Git-based workflows.
-* Contributed to debugging, performance improvements, and feature development.
+* Maintained and improved 2 client service websites (10+ pages each): corrected text and UI issues and fixed 10+ bugs per
+site.
+* Resolved Force Dark Mode rendering issues across both sites using CSS workarounds.
+* Built a single reusable React component that handles all image-preview modals.
+* Standardized typography and styling across 10+ pages of one site.
+* Fixed responsive layout issues for mobile, md and lg screens using Tailwind CSS.
+* Built new features and maintained an admin dashboard for managing a client’s customers, services and service
+registrations.
 
 ### React Intern — Nura9
 
 **Mar 2025 – Mar 2026**
 
-* Developed responsive web interfaces using React and modern frontend technologies.
-* Built reusable components and contributed to application functionality and UI improvements.
-* Collaborated with cross-functional teams during development and delivery.
-* Worked with Git and standard development workflows.
+* Decveloped a document generation platform using React, implementing dynamic multi-step forms, backend
+API integration, user-input handling, and frontend PDF generation with automatic downloads
+* Developed and enhanced administrative dashboard interfaces for user management, editable data tables, and
+workflow operations.
+* Built and maintained reusable React components for application features and standardized UI patterns across
+projects.
+* Integrated frontend workflows with backend APIs, handling asynchronous data flow, user interactions, and
+application states.
+* Improved and refined responsive homepage interfaces for live company websites, resolving UI issues and
+maintaining consistent layouts across screen sizes.
 
 ## Education
 
@@ -72,10 +81,3 @@ Software Development & Problem Solving — 2024
 * JavaScript
 * SQL
 * Data Structures & Algorithms
-
-## Currently Exploring
-
-* Advanced React & Next.js
-* Frontend architecture and performance
-* Full-stack application development
-* Blockchain development with Solana
